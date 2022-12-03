@@ -1,0 +1,8 @@
+Virtual Environment Setup
+Activate Virtual Environment
+execute D:
+execute cd Project\ML-Agent
+execute python-envs\sample-env\Scripts\activate
+
+Deactivate Virtual Environment
+execute deactivate
